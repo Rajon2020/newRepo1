@@ -1,0 +1,18 @@
+//for loop:
+var name:int
+for n in name{
+  print(n)
+}
+//if (n<name){
+   print("yes")
+}else{
+   print("no")
+}
+//switch
+switch name{
+ case 1:
+     print("one")
+  break
+default:
+    break
+}
