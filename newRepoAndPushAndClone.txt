@@ -1,0 +1,18 @@
+***create a new repo in github.
+
+in git bash//
+
+git init
+git add .
+
+git config user.name "user_name"
+git config user.email "mail_address"
+git remote add url_newrepo
+
+cd Desktop
+cd Folder_name
+git add file_name
+
+git checkout branch_name
+git commit -m "something"
+hit push -u origin branch_name
